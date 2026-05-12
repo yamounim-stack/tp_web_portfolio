@@ -92,7 +92,8 @@ nav a:hover{
     color: white;
 }
 
-section{
+section,
+div{
     background: white;
     margin: 20px auto;
     padding: 30px;
