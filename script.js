@@ -1,0 +1,1 @@
+console.log(" lescript js est chargé");
