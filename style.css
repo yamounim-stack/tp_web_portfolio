@@ -100,3 +100,13 @@ div{
     border-radius: 15px;
     width: 80%;
 }
+
+@media (max-width: 750px) {
+    nav {
+       display: flex;
+       flex-direction: column;
+    }
+
+     section {
+        padding: 20px;
+    }}
